@@ -38,7 +38,7 @@ const cyber-usmaan = {
 
 <div align="center">
 
-![Google Professional Cybersecurity Certificate](https://img.shields.io/badge/Google%20Professional%20Cybersecurity%20Certificate-✅%20Completed-1e40af?style=for-the-badge&logo=google&logoColor=white) <br/>
+![Google Cybersecurity Professional Certificate](https://img.shields.io/badge/Google%20Professional%20Cybersecurity%20Certificate-✅%20Completed-1e40af?style=for-the-badge&logo=google&logoColor=white) <br/>
 ![More Coming](https://img.shields.io/badge/More%20Certifications-🚧%20In%20Progress-0d1117?style=for-the-badge&logo=readdotcv&logoColor=38bdf8)
 
 </div>
