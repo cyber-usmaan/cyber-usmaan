@@ -6,7 +6,7 @@
 <div align="center">
 
 <a href="#">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Professional+Cyber+Security+Analyst;Monitoring+Networks+and+Hunting+Threats;Python+%2B+Bash+%2B+Shell+%2B+Linux%2FWindows+CLI;SIEM+%7C+Wireshark+%7C+tcpdump+%7C+and+moere;Blue+Team+Mindset%3A+Detect.+Defend.+Respond." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Professional+Cyber+Security+Analyst;Monitoring+Networks+and+Hunting+Threats;Python+%2B+Bash+%2B+Shell+%2B+Linux%2FWindows+CLI;SIEM+%7C+Wireshark+%7C+tcpdump+%7C+and+more;Blue+Team+Mindset%3A+Detect.+Defend.+Respond." alt="Typing SVG" />
 </a>
 
 </div>
