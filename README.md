@@ -62,7 +62,7 @@ const cyber-usmaan = {
 
 <br/>
 
-**Badges:**
+## Badges
 
 <p align="center">
   <img src="badges/blob.png" width="120"/>
