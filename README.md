@@ -66,8 +66,8 @@ const cyber-usmaan = {
 
 <p align="center">
   <img src="badges/blob.png" width="120"/>
-  <img src="badges/CYBERSEC AND CLOUD FUNDAMENTALS.png" width="120"/>
-  <img src="badges/NEXT GEN FIREWALL.png" width="120"/>
+  <img src="badges/nse1.png" width="120"/>
+  <img src="badges/nse2.png" width="120"/>
 </p>
 
 
